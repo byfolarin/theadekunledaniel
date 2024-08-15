@@ -1,29 +1,32 @@
-html,body{
-  margin: 0;
-  padding: 0;
+body{
+  margin: 0px;
+  padding: 0px;
   box-sizing: border-box;
 }
 
 
 
 h1{
+  margin: 0px;
+  padding: 32px;
   font-size: 164px;
   color: white;
   font-weight: 400;
   letter-spacing: -0.11em;
   text-align: center;
-  border: 1px solid red;
 }
 
 .pa{
   color: white;
   text-align: center;
   letter-spacing: -0.02em;
+  font-size: 32px;
 }
 
 .para{
   display: flex;
   width: 33%;
+
   color: rgb(218, 218, 218);
   text-align: center;
   letter-spacing: -0.02em;
