@@ -13,9 +13,15 @@ h1{
 }
 
 .para{
-  align-items: center;
-  width: 30%;
+  display: flex;
+  width: 33%;
   color: rgb(218, 218, 218);
   text-align: center;
   letter-spacing: -0.02em;
+}
+
+.para-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
